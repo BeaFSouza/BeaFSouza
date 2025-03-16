@@ -2,7 +2,7 @@
 
 - 🎓 Estudante de Sistemas de Informação
 - 😄 Pronouns: She/He
--    Trabalho na área de Governança de TI
+- 💻Trabalho na área de Governança de TI
 ##
 <div>
 <a href="https://mail.google.com/mail/u/0/?hl=pt-BR#inbox?compose=new"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
