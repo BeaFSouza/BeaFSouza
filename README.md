@@ -1,4 +1,4 @@
-## Hi, i am Beatriz 👋
+## Hi, 👋
 
 - 🎓 Estudante de Sistemas de Informação
 - 😄 Pronouns: She/He
