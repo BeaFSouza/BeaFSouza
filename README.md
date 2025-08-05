@@ -42,8 +42,8 @@ Tools           : VS Code • IntelliJ IDEA • Trello • Notion
 ## 📊 GitHub Insights
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BeaFSouza&show_icons=true&theme=pink&include_all_commits=true&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BeaFSouza&layout=compact&theme=pink" height="150" />
+<img src="https://github-readme-stats.vercel.app/api?username=BeaFSouza&show_icons=true&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeaFSouza&layout=compact&theme=radical" />
 </div>
 
 ---
