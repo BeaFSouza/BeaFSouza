@@ -12,7 +12,7 @@
   <a href="https://www.linkedin.com/in/beatrizferreiradesouza">
     <img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:beatrizferreiradesouza@gmail.com">
+  <a href="mailto:beah13.ferreira@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-FFB6C1?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
