@@ -1,36 +1,59 @@
-## Hi, 👋
+<h1 align="center">👩‍💻 Beatriz Ferreira 🌸</h1>
 
-- 🎓 Estudante de Sistemas de Informação
-- 😄 Pronouns: She/He
-- 💻Trabalho na área de Governança de TI
-##
-<div>
-<a href="https://mail.google.com/mail/u/0/?hl=pt-BR#inbox?compose=new"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/beatrizferreiradesouza/"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=22&duration=4000&color=FF69B4&lines=Back-end+em+Java" alt="Typing SVG" />
+</p>
 
-##
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Bea-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Bea-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Bea-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Bea-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
+---
+## 🧠 Tech Profile Snapshot
 
-##
+- 🏛️ Background acadêmico: Sistemas de Informação  
+- ⚙️ Governança de TI com compliance corporativo  
+- 🧪 Skills em desenvolvimento: lógica, POO, manipulação de dados  
+- 🔍 Foco atual: Backend com Java + Fundamentos Web  
+- 🌐 Explorando frameworks modernos e escaláveis
+
+---
+
+## 🛠️ Core Technologies
+
+```txt
+Languages       : Java • JavaScript • Python • HTML • CSS
+Version Control : Git • GitHub
+OS Knowledge    : Windows • Linux
+Tools           : VS Code • IntelliJ IDEA • Trello • Notion
+```
+
+---
+
+## 📡 Network & Contact
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BeaFSouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=synthwave&locale=en&hide_border=false" height="135" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BeaFSouza&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=7&theme=synthwave&hide_border=false" height="135" alt="languages graph"  />
+  <a href="https://www.linkedin.com/in/beatrizferreiradesouza/"><img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:beatrizferreiradesouza@gmail.com"><img src="https://img.shields.io/badge/Gmail-FF69B4?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
 
-#
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BeaFSouza/BeaFSouza/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BeaFSouza/BeaFSouza/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/BeaFSouza/BeaFSouza/output/github-contribution-grid-snake.svg">
-</picture>
+---
+
+## 📊 GitHub Insights
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=BeaFSouza&show_icons=true&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeaFSouza&layout=compact&theme=radical" />
+</div>
+
+---
+
+## 🐍 Snake 
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BeaFSouza/BeaFSouza/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BeaFSouza/BeaFSouza/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/BeaFSouza/BeaFSouza/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
 
 
 
