@@ -3,7 +3,7 @@
 <h2 align="center">&lt;Olá, eu sou a Beatriz Ferreira!/&gt;</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&color=FF69B4&lines=Full+Stack+Em+Java💖" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&color=FF69B4&lines=Aspirant+Full+Stack💖" alt="Typing SVG" />
 </p>
 
 ---
@@ -23,7 +23,7 @@
 
 🎓 Estudante de Sistemas de Informação  
 💼 Profissional atuando com Governança de TI  
-⚙️ Foco em desenvolvimento back-end usando Java  
+⚙️ Foco em desenvolvimento full Stack usando Java  
 🚀 Exploradora de tecnologias que impulsionam inovação  
 💖 Criativa, comprometida e sempre aprendendo
 
